@@ -103,5 +103,5 @@ Desenvolver uma ferramenta prática para apoiar o planejamento de investimentos,
 
 ---
 
-**Desenvolvido por Construx Empreendimentos.**
+**Desenvolvido por Marco Marchiori.**
 
